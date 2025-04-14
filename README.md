@@ -101,7 +101,7 @@ This project is licensed under the MIT License.
 
 ## 📷 **Preview**
 
-![alt text](demo.mp4)
+![alt text](Demo.mp4)
 
 
 ---
