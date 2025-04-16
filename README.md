@@ -1,4 +1,4 @@
-# ChatBot for College Website - RAG Based AI Assistant
+# Info Bot - RAG Based AI Assistant for the College Website
 
 Welcome to this official repository, This is designed to help users navigate and understand the resources, rules, and offerings of a college website. Whether you're a prospective student or a current one, this chatbot ensures that you get the right answers — fast and accurately.
 
