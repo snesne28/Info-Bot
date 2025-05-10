@@ -39,7 +39,6 @@ Welcome to this official repository, This is designed to help users navigate and
 | **FastAPI**         | API backend framework for handling user requests     |
 | **Google Gemini**   | Embeddings (`embedding-001`) + QA (`gemini-1.5-pro`) |
 | **FAISS**           | Efficient local vector store and similarity search   |
-| **LangChain**       | Manages QA chains, prompts, and LLM interactions     |
 | **PyPDF2**          | Parses and extracts text from PDF documents          |
 | **dotenv**          | Manages environment variables securely               |
 | **CORS Middleware** | Enables frontend-backend interaction                 |
