@@ -1,6 +1,12 @@
 # Info Bot - RAG Based AI Assistant for the College Website
 
-Welcome to this official repository, This is designed to help users navigate and understand the resources, rules, and offerings of a college website. Whether you're a prospective student or a current one, this chatbot ensures that you get the right answers — fast and accurately.
+This project is an intelligent chatbot for my college website that uses Retrieval-Augmented Generation (RAG) and Google Gemini LLM to answer any queries related to the institution. It processes PDF documents containing web scraped data and provides accurate, context-based responses in natural language.
+
+The chatbot enables users—students, faculty, or visitors—to ask questions about the college and receive responses grounded in actual college documents. This ensures reliable and factual information delivery.
+
+It integrates:
+
+Document parsing from PDFs, Embedding & storage of content using FAISS, Query answering with context retrieval + generative AI
 
 ---
 
